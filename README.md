@@ -18,7 +18,7 @@ A diferencia de lenguajes como Java o C#, JS no tiene clases reales en su núcle
 Cadena de Prototipos
 Es el mecanismo por el cual un objeto hereda propiedades de otro. Si JS no encuentra un método en tu objeto, lo busca en su prototipo, y luego en el prototipo de su prototipo, hasta llegar a null.
 
-##Los 4 Pilares
+## Los 4 Pilares
 
 Encapsulación:
 Mantener datos y funciones seguros y agrupados dentro de un objeto.
